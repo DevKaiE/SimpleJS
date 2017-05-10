@@ -1,0 +1,3 @@
+function popWindow(url){
+	window.open(url, "", "toolbar=no, dependent= yes, innerwidth=640, innerheight=480")
+}
